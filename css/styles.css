@@ -9,6 +9,7 @@
 ------------------------------------*/
 body {
     background: #0D3911;
+    color: #0D3911;
     font:'Saira', sans-serif;
 }
 
@@ -34,6 +35,10 @@ p{
 header{
     background: #b7e0bb;
     font: 500 1.5em 'Saira', sans-serif;
+}
+
+header img{
+    width: 250px;
 }
 
 footer{
